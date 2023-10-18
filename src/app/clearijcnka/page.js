@@ -32,7 +32,7 @@ export default function Home() {
 				</p>
 				<p>今年も、M子さんにとって成長と幸せの年になりますように☆</p>
 			</div>
-			<div className='w-full h-[100vw] relative my-1'>
+			<div className='w-full h-[300px] relative my-1'>
 				<Image
 					className=' object-contain'
 					src='/images/outofprison.png'
