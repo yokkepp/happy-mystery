@@ -16,7 +16,7 @@ export default function Home() {
 					※このアプリは、デバイス上に一時的にデータを保存するため、サイトを再読み込みしてしまうとデータが消えてしまいますので、ご注意ください。
 				</p>
 			</div>
-			<div className='w-full h-[100vw] relative my-5'>
+			<div className='w-full h-[300px] relative my-5'>
 				<Image
 					className=' object-contain'
 					src='/images/escape.jpg'

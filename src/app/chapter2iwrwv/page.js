@@ -33,7 +33,7 @@ export default function Home() {
 					リビングに生息している、「5本足のエイリアン」の頭の裏にはメッセージが書かれているようだ。彼らからのメッセージが意味するものとは何か？
 				</p>
 			</div>
-			<div className='w-full h-[100vw] relative my-5'>
+			<div className='w-full h-[300px] relative my-5'>
 				<Image
 					className=' object-contain'
 					src='/images/alien.png'

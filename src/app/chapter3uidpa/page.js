@@ -34,7 +34,7 @@ export default function Home() {
 					記念日に一家で出かける思い出の場所といえばとこか？
 				</p>
 			</div>
-			<div className='w-full h-[100vw] relative my-5'>
+			<div className='w-full h-[300px] relative my-5'>
 				<Image
 					className=' object-contain'
 					src='/images/memory.png'

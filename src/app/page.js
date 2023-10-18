@@ -9,7 +9,7 @@ export default function Home() {
 				ヒントがあったのは、このサイトのURLだけ。
 				謎解きが得意とは言えないM子さんは、必死に脱出を試みるのだった。
 			</p>
-			<div className='w-full h-[200px] relative my-5'>
+			<div className='w-full h-[300px] relative my-5'>
 				<Image
 					className=' object-contain'
 					src='/images/prison.png'

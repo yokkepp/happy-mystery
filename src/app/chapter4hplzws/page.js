@@ -31,7 +31,7 @@ export default function Home() {
 			<div className=''>
 				<p className='my-2'>今は8時42分、針が刺す線を辿ったその先を探せ。</p>
 			</div>
-			<div className='w-full h-[100vw] relative my-5'>
+			<div className='w-full h-[300px] relative my-5'>
 				<Image
 					className=' object-contain'
 					src='/images/root.jpeg'

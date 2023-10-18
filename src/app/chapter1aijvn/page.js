@@ -38,7 +38,7 @@ export default function Home() {
 					最初のヒントは、リビング内の動く可愛いものにくっついているようだ。探して謎を解いてみよう！
 				</p>
 			</div>
-			<div className='w-full h-[100vw] relative my-5'>
+			<div className='w-full h-[300px] relative my-5'>
 				<Image
 					className=' object-contain'
 					src='/images/question.png'
